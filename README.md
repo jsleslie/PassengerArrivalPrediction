@@ -20,3 +20,4 @@ This project examines whether data on total passenger and flight arrivals along 
 
 Statistics Canada. Air passenger traffic at Canadian airports, annual. Accessed January 28, 2020. <https://open.canada.ca/data/en/dataset/85e12734-7705-48de-adb9-ee27bbfd1672>
 
+The Conference Board of Canada. Supply Management in Transportation. December 2013.
