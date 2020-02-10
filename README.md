@@ -14,7 +14,13 @@ This project examines whether data on total passenger and flight arrivals along 
 
  - Figure out how to predict taxi demand without knowing historical hourly data
 
+## Usage
 
+To perform this analysis run the following scripts:
+
+```
+# python src/process_pdf_passengers.py --path_in=data/YVR_Passengers.pdf --path_out=data/tidy_YVR_passengers.csv
+```
 
 ## References
 
