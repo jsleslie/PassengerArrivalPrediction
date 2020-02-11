@@ -1,4 +1,4 @@
-# Passenger Arrival Prediction
+# Estimating hourly taxi demand at YVR Airport
 
 This project examines whether data on total passenger and flight arrivals along with flight arrival schedules may be used to develop an effective machine learning algorithm which predicts the hourly taxi demand.
 
